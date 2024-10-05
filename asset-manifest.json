@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RyannKim327-VCard/static/css/main.cb2249ab.css",
-    "main.js": "/RyannKim327-VCard/static/js/main.c0e6aaa0.js",
+    "main.js": "/RyannKim327-VCard/static/js/main.fad6eccb.js",
     "static/js/453.90491925.chunk.js": "/RyannKim327-VCard/static/js/453.90491925.chunk.js",
     "static/media/ai-haibara.png": "/RyannKim327-VCard/static/media/ai-haibara.a782902958e03d92f0b9.png",
     "static/media/chatapp.png": "/RyannKim327-VCard/static/media/chatapp.b4d7653d6ac692d3b867.png",
@@ -12,11 +12,11 @@
     "static/media/baybayin-keyboard.png": "/RyannKim327-VCard/static/media/baybayin-keyboard.a0e40dbb91fe6fa76218.png",
     "index.html": "/RyannKim327-VCard/index.html",
     "main.cb2249ab.css.map": "/RyannKim327-VCard/static/css/main.cb2249ab.css.map",
-    "main.c0e6aaa0.js.map": "/RyannKim327-VCard/static/js/main.c0e6aaa0.js.map",
+    "main.fad6eccb.js.map": "/RyannKim327-VCard/static/js/main.fad6eccb.js.map",
     "453.90491925.chunk.js.map": "/RyannKim327-VCard/static/js/453.90491925.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb2249ab.css",
-    "static/js/main.c0e6aaa0.js"
+    "static/js/main.fad6eccb.js"
   ]
 }
