@@ -1,8 +1,8 @@
 {
-  "name": "ryannkim327.github.io",
+  "name": "RyannKim327 Vcard",
   "version": "0.0.2",
   "private": true,
-  "homepage": "https://ryannkim327.is-a.dev",
+  "homepage": "https://ryannkim327.is-a.dev/vcard",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
@@ -31,7 +31,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --cname ryannkim327.is-a.dev"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
