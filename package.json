@@ -2,7 +2,7 @@
   "name": "ryannkim327-vcard",
   "version": "0.0.2",
   "private": true,
-  "homepage": "https://ryannkim327.is-a.dev/ryannkim327-vcard",
+  "homepage": "https://ryannkim327.github.io/RyannKim327-VCard",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
