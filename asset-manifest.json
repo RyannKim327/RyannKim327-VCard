@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ryannkim327-vcard/static/css/main.cb2249ab.css",
-    "main.js": "/ryannkim327-vcard/static/js/main.e09d9c36.js",
-    "static/js/453.90491925.chunk.js": "/ryannkim327-vcard/static/js/453.90491925.chunk.js",
-    "static/media/ai-haibara.png": "/ryannkim327-vcard/static/media/ai-haibara.a782902958e03d92f0b9.png",
-    "static/media/chatapp.png": "/ryannkim327-vcard/static/media/chatapp.b4d7653d6ac692d3b867.png",
-    "static/media/aria-bot.png": "/ryannkim327-vcard/static/media/aria-bot.769d60d4a93b35eef7fa.png",
-    "static/media/avd-ext.png": "/ryannkim327-vcard/static/media/avd-ext.77122428e24f213af495.png",
-    "static/media/web-samples.png": "/ryannkim327-vcard/static/media/web-samples.6dae11c9d2a31da56752.png",
-    "static/media/profile.jpg": "/ryannkim327-vcard/static/media/profile.b915a4ab931172a098a7.jpg",
-    "static/media/baybayin-keyboard.png": "/ryannkim327-vcard/static/media/baybayin-keyboard.a0e40dbb91fe6fa76218.png",
-    "index.html": "/ryannkim327-vcard/index.html",
-    "main.cb2249ab.css.map": "/ryannkim327-vcard/static/css/main.cb2249ab.css.map",
-    "main.e09d9c36.js.map": "/ryannkim327-vcard/static/js/main.e09d9c36.js.map",
-    "453.90491925.chunk.js.map": "/ryannkim327-vcard/static/js/453.90491925.chunk.js.map"
+    "main.css": "/RyannKim327-VCard/static/css/main.cb2249ab.css",
+    "main.js": "/RyannKim327-VCard/static/js/main.c0e6aaa0.js",
+    "static/js/453.90491925.chunk.js": "/RyannKim327-VCard/static/js/453.90491925.chunk.js",
+    "static/media/ai-haibara.png": "/RyannKim327-VCard/static/media/ai-haibara.a782902958e03d92f0b9.png",
+    "static/media/chatapp.png": "/RyannKim327-VCard/static/media/chatapp.b4d7653d6ac692d3b867.png",
+    "static/media/aria-bot.png": "/RyannKim327-VCard/static/media/aria-bot.769d60d4a93b35eef7fa.png",
+    "static/media/avd-ext.png": "/RyannKim327-VCard/static/media/avd-ext.77122428e24f213af495.png",
+    "static/media/web-samples.png": "/RyannKim327-VCard/static/media/web-samples.6dae11c9d2a31da56752.png",
+    "static/media/profile.jpg": "/RyannKim327-VCard/static/media/profile.b915a4ab931172a098a7.jpg",
+    "static/media/baybayin-keyboard.png": "/RyannKim327-VCard/static/media/baybayin-keyboard.a0e40dbb91fe6fa76218.png",
+    "index.html": "/RyannKim327-VCard/index.html",
+    "main.cb2249ab.css.map": "/RyannKim327-VCard/static/css/main.cb2249ab.css.map",
+    "main.c0e6aaa0.js.map": "/RyannKim327-VCard/static/js/main.c0e6aaa0.js.map",
+    "453.90491925.chunk.js.map": "/RyannKim327-VCard/static/js/453.90491925.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb2249ab.css",
-    "static/js/main.e09d9c36.js"
+    "static/js/main.c0e6aaa0.js"
   ]
 }
