@@ -1,8 +1,8 @@
 {
-  "name": "RyannKim327 Vcard",
+  "name": "ryannkim327-vcard",
   "version": "0.0.2",
   "private": true,
-  "homepage": "https://ryannkim327.is-a.dev/vcard",
+  "homepage": "https://ryannkim327.is-a.dev/ryannkim327-vcard",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
@@ -53,5 +53,13 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "description": "![](https://wakatime.com/badge/github/RyannKim327/ryannkim327.github.io.svg?style=for-the-badge)",
+  "main": "tailwind.config.js",
+  "keywords": [
+    "portfolio",
+    "vcard"
+  ],
+  "author": "",
+  "license": "MIT"
 }
